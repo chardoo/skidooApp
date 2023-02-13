@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935422169314",
+    "project_id": "skiddo-fb646",
+    "storage_bucket": "skiddo-fb646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935422169314:android:9866ac15539fcdf3890ebb",
+        "android_client_info": {
+          "package_name": "com.example.skiddoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935422169314-o1rf2ssg76mb955ipn3rtfvitj3kjrdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqji5TdEcp_bleSyMzNW5jUDiOncPdlEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935422169314-o1rf2ssg76mb955ipn3rtfvitj3kjrdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
